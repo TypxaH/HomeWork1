@@ -18,6 +18,7 @@ public class Main {
             case 5: result = "Friday"; break;
             case 6: result = "Saturday"; break;
             case 7: result = "Sunday"; break;
+            //case 7: result = "Sunday"; break;
             default: result = "Maybe on another planet";
         }
         return result;
